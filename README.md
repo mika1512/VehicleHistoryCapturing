@@ -10,4 +10,4 @@ value.
 ## Resources
 **BPMN**: files were uploaded to the /BPMN folder of the repository
 
-**Blockchain Design**: Database diagram and ERD - ![click here] (https://miro.com/app/board/uXjVL2IxiYc=/?share_link_id=214986788305)
+**Blockchain Design**: Database diagram and ERD - [click here](https://miro.com/app/board/uXjVL2IxiYc=/?share_link_id=214986788305)
